@@ -1,0 +1,7 @@
+toy.page:
+  path: '/toy'
+  defaults:
+    _controller: '\Drupal\toy\Controller\ToyController::page'
+    _title: 'Toy default page'
+  requirements:
+    _permission: 'access content'

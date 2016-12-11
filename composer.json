@@ -1,0 +1,5 @@
+{
+    "name": "drupal/toy",
+    "description": "This is an example composer.json for toy module.",
+    "type": "drupal-module",
+}
